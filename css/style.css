@@ -8,9 +8,10 @@ body{
   font-size: 16px;
 line-height: 1.5;
 color: #4444;
+background-color: #fff;
 }
 /* container  */
-.comtaainer{
+.container{
 width: 100%;
 max-width: 1160px;
 padding-left: 30px;
